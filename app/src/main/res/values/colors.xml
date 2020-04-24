@@ -36,4 +36,7 @@
 
     <color name="colorWhite">#ffffffff</color>
     <color name="colorWhiteHalf">#bbffffff</color>
+    <color name="gray">#808080</color>
+    <color name="lightYellow">#FFFFF0</color>
+    <color name="lightCyan">#E1FFFF</color>
 </resources>
