@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ce3d3a</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorLightCoffee">@color/md_brown_500</color>
+    <color name="colorDarkCoffee">@color/md_brown_700</color>
+    <color name="colorAccent3">@color/md_deep_orange_500</color>
+    <color name="blue">#8EA2F4</color>
+    <color name="wathetblue">#CCFFFF</color>
+    <color name="red">#E51C23</color>
+    <color name="littlered">#F5E6E7</color>
+    <color name="green">#259b24</color>
+    <color name="yellow">#ffeb3b</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="grey">#515151</color>
+    <color name="themeColor">#ffce3d3a</color>
+    <color name="toolbarTextColor">#ffffffff</color>
+    <color name="normalBackground">#fff2f4f5</color>
+    <color name="toolbarSubTextColor">#ffd4d4d4</color>
+    <color name="txt_color">#48495F</color>
+    <color name="text_color">#FF000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="choose">#00FFB7</color>
+    <color name="textColorHint">#A0A0A0</color>
+    <color name="textColor">#202020</color>
+    <color name="layout_dark">#9C9B9B</color>
+    <color name="layout_light">#ffffffff</color>
+    <!--暂时用于反馈文字-->
+    <color name="text_common">#191919</color>
+    <!--首页item文字颜色-->
+    <color name="colorSubtitle">#999</color>
+    <!--页面背景的颜色-->
+    <color name="color_page_bg">#F1F3F4</color>
+
+    <color name="colorWhite">#ffffffff</color>
+    <color name="colorWhiteHalf">#bbffffff</color>
+</resources>

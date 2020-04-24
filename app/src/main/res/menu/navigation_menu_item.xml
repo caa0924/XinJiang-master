@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:id="@+id/top_group"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nacigation_menu_dispatching_management"
+            android:checked="true"
+            android:icon="@drawable/vector_equipment_check"
+            android:title="@string/nacigation_menu_dispatching_management" />
+        <item
+            android:id="@+id/navigation_menu_comprehensive_detection"
+            android:checked="true"
+            android:icon="@drawable/vector_alter"
+            android:title="@string/navigation_menu_comprehensive_detection" />
+        <item
+            android:id="@+id/navigation_menu_safety_management"
+            android:checked="true"
+            android:icon="@drawable/vector_production_technology"
+            android:title="@string/navigation_menu_safety_management" />
+        <item
+            android:id="@+id/navigation_menu_production_technology"
+            android:checked="true"
+            android:icon="@drawable/vector_safety_management"
+            android:title="@string/navigation_menu_production_technology" />
+        <item
+            android:id="@+id/navigation_menu_industrial_video"
+            android:checked="true"
+            android:icon="@drawable/vector_industrial_video"
+            android:title="@string/navigation_menu_industrial_video" />
+        <item
+            android:id="@+id/navigation_menu_a_map"
+            android:checked="true"
+            android:icon="@drawable/vector_a_map"
+            android:title="@string/navigation_menu_a_map" />
+        <item
+            android:id="@+id/navigation_menu_about_app"
+            android:checked="true"
+            android:icon="@drawable/vector_new_baout_app"
+            android:title="@string/navigation_menu_about_app" />
+        <item
+            android:id="@+id/navigation_cancel"
+            android:checked="true"
+            android:icon="@drawable/vector_cancel"
+            android:title="@string/cancleId" />
+    </group>
+</menu>

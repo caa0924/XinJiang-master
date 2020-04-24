@@ -1,0 +1,106 @@
+<resources>
+    <string name="app_name">安全生产运营综合管理</string>
+    <string name="meizi_none_item">没有传入任何数据</string>
+    <string name="user_collection">设备报警信息处理</string>
+    <string name="icons">&#xe7d5;</string>
+    <string name="icon_shake">&#x354d;</string>
+    <string name="icon_search">&#xe62f;</string>
+    <string name="icon_drawer">&#xe614;</string>
+    <string name="icon_watch">手持终端巡检</string>
+    <string name="navigation_menu_comprehensive_detection">综合监测</string>
+    <string name="nacigation_menu_dispatching_management">调度管理</string>
+    <string name="navigation_menu_production_technology">生产技术</string>
+    <string name="navigation_menu_safety_management">安全管理</string>
+    <string name="navigation_menu_industrial_video">工业视频</string>
+    <string name="navigation_menu_about_app">关于软件</string>
+    <string name="navigation_menu_a_map">煤矿一张图</string>
+    <string name="navigation_menu_about_author">关于作者</string>
+    <string name="jump_meizi">跳转</string>
+    <string name="navigation_menu_share">分享</string>
+    <string name="network_error">网络连接错误，请检查网络</string>
+    <string name="share_successful">分享成功</string>
+    <string name="share_failed">分享失败，请重试</string>
+    <string name="sharedPreferences_picture">picture</string>
+    <string name="sharedPreferences_android">android</string>
+    <string name="sharedPreferences_front">front</string>
+    <string name="app_version">V1.0.1 </string>
+    <string name="share_program">分享软件</string>
+    <string name="share_text_video">分享文章视频</string>
+    <string name="share_image">分享图片</string>
+    <string name="type_worry">程序出错</string>
+    <string name="navigation_menu_about_project_content">
+         软件主要功能：\n\t可对单点、多点和坐标文件实现坐标系转换；\n
+         注意事项：\n
+        （1）需要输入或导入转换参数；\n
+        （2）坐标转换参数可通过与该移动端软件配套的桌面端软件计算取得；\n
+        技术支持：\n\t中煤航测遥感集团有限公司
+    </string>
+    <string name="thanks">特别感谢</string>
+    <bool name="collection_none_item_clickable">false</bool>
+    <bool name="collection_have_item_clickable">true</bool>
+    <array name="table_name">
+        <item>WebViewTextURL</item>
+    </array>
+    <string name="bj_1954">北京1954</string>
+    <string name="xa_1980">西安1980</string>
+    <string name="cgcs_2000">CGCS2000</string>
+    <string name="location">当地坐标系</string>
+    <string name="beijing54">北京54坐标系</string>
+    <string name="xian80">西安80坐标系</string>
+    <string name="cgcs2000">CGCS2000坐标系</string>
+    <string name="cancel">取消</string>
+    <string name="confirm">确定</string>
+    <string name="close">退出</string>
+    <string name="patternPara">0.####################</string>
+    <string name="title_activity_login">坐标转换</string>
+
+    <string name="serial_number">机器码：</string>
+    <string name="registration_code">激活码：</string>
+    <string name="registration_code_hint">请输入激活码...</string>
+    <string name="registration_tip">注：请向开发商提供当前设备的机器码，以取得激活码。</string>
+    <string name="open_help_tip">(注: 点击图标预览帮助文档，需要联网！)</string>
+    <string name="registration">激活</string>
+    <string name="code">二维码/条码</string>
+    <string name="collection_Info">多媒体信息采集：</string>
+    <string name="cancleId">账户注销</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="TODO">TODO</string>
+    <string name="startRecord">开始录音</string>
+    <string name="stopRecord">停止录音</string>
+    <string name="playRecord">播放</string>
+    <string name="pauseRecord">暂停播放</string>
+    <string name="stopPlayRecord">停止播放</string>
+    <string name="openLight">打开闪光灯</string>
+    <string name="informationAlert">信息预警</string>
+    <string name="keepAlert">保养计划预警</string>
+    <string name="outOfDate">过期未保</string>
+    <string name="due_today">今日到期</string>
+    <string name="due_tomorrow">明日到期</string>
+    <string name="due_mouth">本月到期</string>
+    <string name="due_next_mouth">下月到期</string>
+    <string name="end_up_keep">结束保养</string>
+    <string name="surveyAlert">鉴定计划预警</string>
+    <string name="outofdate">过期未检</string>
+    <string name="overSurvey">结束鉴定</string>
+    <string name="check_photo">图片：</string>
+    <string name="check_video">视频：</string>
+    <string name="check_voice">音频：</string>
+    <string name="check_notes">备注：</string>
+    <string name="chooseVoice">选择</string>
+    <string name="todo">TODO</string>
+    <string name="outOfDateValue">过期未保</string>
+    <string name="equip_number">设备编号</string>
+    <string name="fault_type">故障类型</string>
+    <string name="fault_class">故障等级</string>
+    <string name="fault_description">故障描述</string>
+    <string name="mei_cang">煤仓仓位</string>
+    <string name="people">人员统计</string>
+    <string name="zong_cai">综采界面</string>
+    <string name="gong_shui">压风供水</string>
+    <string name="gong_dian">供电系统</string>
+    <string name="pai_shui">排水系统</string>
+    <string name="zhu_feng_ji">主风机</string>
+    <string name="wu_shui">污水系统</string>
+    <string name="yin_xiao_bao_biao">营销报表</string>
+</resources>
